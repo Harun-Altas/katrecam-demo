@@ -1,2 +1,3 @@
+# STAGING — tarama kapalı
 User-agent: *
 Disallow: /
